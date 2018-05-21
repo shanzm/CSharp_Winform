@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2010\Projects\Winform-MouseEnter练习\Winform-MouseEnter练习\bin\Debug\Winform-MouseEnter练习.exe
+D:\Documents\Visual Studio 2010\Projects\Winform-MouseEnter练习\Winform-MouseEnter练习\bin\Debug\Winform-MouseEnter练习.pdb
+D:\Documents\Visual Studio 2010\Projects\Winform-MouseEnter练习\Winform-MouseEnter练习\obj\x86\Debug\Winform_MouseEnter练习.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\Winform-MouseEnter练习\Winform-MouseEnter练习\obj\x86\Debug\Winform_MouseEnter练习.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\Winform-MouseEnter练习\Winform-MouseEnter练习\obj\x86\Debug\Winform2-MouseEnter练习.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\Winform-MouseEnter练习\Winform-MouseEnter练习\obj\x86\Debug\Winform-MouseEnter练习.exe
+D:\Documents\Visual Studio 2010\Projects\Winform-MouseEnter练习\Winform-MouseEnter练习\obj\x86\Debug\Winform-MouseEnter练习.pdb
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform2-MouseEnter练习\Winform-MouseEnter练习\bin\Debug\Winform-MouseEnter练习.exe
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform2-MouseEnter练习\Winform-MouseEnter练习\bin\Debug\Winform-MouseEnter练习.pdb
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform2-MouseEnter练习\Winform-MouseEnter练习\obj\x86\Debug\Winform_MouseEnter练习.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform2-MouseEnter练习\Winform-MouseEnter练习\obj\x86\Debug\Winform_MouseEnter练习.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform2-MouseEnter练习\Winform-MouseEnter练习\obj\x86\Debug\Winform2-MouseEnter练习.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform2-MouseEnter练习\Winform-MouseEnter练习\obj\x86\Debug\Winform-MouseEnter练习.exe
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform2-MouseEnter练习\Winform-MouseEnter练习\obj\x86\Debug\Winform-MouseEnter练习.pdb

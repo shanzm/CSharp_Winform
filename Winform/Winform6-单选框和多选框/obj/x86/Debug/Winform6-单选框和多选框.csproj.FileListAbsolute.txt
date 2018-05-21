@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform6-单选框和多选框\bin\Debug\Winform6-单选框和多选框.exe
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform6-单选框和多选框\bin\Debug\Winform6-单选框和多选框.pdb
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform6-单选框和多选框\obj\x86\Debug\Winform6_单选框和多选框.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform6-单选框和多选框\obj\x86\Debug\Winform6_单选框和多选框.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform6-单选框和多选框\obj\x86\Debug\Winform6-单选框和多选框.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform6-单选框和多选框\obj\x86\Debug\Winform6-单选框和多选框.exe
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform6-单选框和多选框\obj\x86\Debug\Winform6-单选框和多选框.pdb

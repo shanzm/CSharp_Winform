@@ -1,0 +1,14 @@
+d:\documents\visual studio 2010\Projects\Winform-文本框和label\Winform4-Timer练习-闹钟\bin\Debug\Winform4-Timer练习-闹钟.exe
+d:\documents\visual studio 2010\Projects\Winform-文本框和label\Winform4-Timer练习-闹钟\bin\Debug\Winform4-Timer练习-闹钟.pdb
+d:\documents\visual studio 2010\Projects\Winform-文本框和label\Winform4-Timer练习-闹钟\obj\x86\Debug\Winform4_Timer练习_闹钟.Form1.resources
+d:\documents\visual studio 2010\Projects\Winform-文本框和label\Winform4-Timer练习-闹钟\obj\x86\Debug\Winform4_Timer练习_闹钟.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\Winform-文本框和label\Winform4-Timer练习-闹钟\obj\x86\Debug\Winform4-Timer练习-闹钟.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\Winform-文本框和label\Winform4-Timer练习-闹钟\obj\x86\Debug\Winform4-Timer练习-闹钟.exe
+d:\documents\visual studio 2010\Projects\Winform-文本框和label\Winform4-Timer练习-闹钟\obj\x86\Debug\Winform4-Timer练习-闹钟.pdb
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform4-Timer练习-闹钟\bin\Debug\Winform4-Timer练习-闹钟.exe
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform4-Timer练习-闹钟\bin\Debug\Winform4-Timer练习-闹钟.pdb
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform4-Timer练习-闹钟\obj\x86\Debug\Winform4_Timer练习_闹钟.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform4-Timer练习-闹钟\obj\x86\Debug\Winform4_Timer练习_闹钟.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform4-Timer练习-闹钟\obj\x86\Debug\Winform4-Timer练习-闹钟.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform4-Timer练习-闹钟\obj\x86\Debug\Winform4-Timer练习-闹钟.exe
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform4-Timer练习-闹钟\obj\x86\Debug\Winform4-Timer练习-闹钟.pdb

@@ -1,0 +1,14 @@
+d:\documents\visual studio 2010\Projects\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\bin\Debug\Winform13-面向对象在winform中使用-石头剪刀布.exe
+d:\documents\visual studio 2010\Projects\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\bin\Debug\Winform13-面向对象在winform中使用-石头剪刀布.pdb
+d:\documents\visual studio 2010\Projects\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\obj\x86\Debug\Winform13_面向对象在winform中使用_石头剪刀布.Form1.resources
+d:\documents\visual studio 2010\Projects\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\obj\x86\Debug\Winform13_面向对象在winform中使用_石头剪刀布.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\obj\x86\Debug\Winform13-面向对象在winform中使用-石头剪刀布.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\obj\x86\Debug\Winform13-面向对象在winform中使用-石头剪刀布.exe
+d:\documents\visual studio 2010\Projects\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\obj\x86\Debug\Winform13-面向对象在winform中使用-石头剪刀布.pdb
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\bin\Debug\Winform13-面向对象在winform中使用-石头剪刀布.exe
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\bin\Debug\Winform13-面向对象在winform中使用-石头剪刀布.pdb
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\obj\x86\Debug\Winform13_面向对象在winform中使用_石头剪刀布.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\obj\x86\Debug\Winform13_面向对象在winform中使用_石头剪刀布.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\obj\x86\Debug\Winform13-面向对象在winform中使用-石头剪刀布.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\obj\x86\Debug\Winform13-面向对象在winform中使用-石头剪刀布.exe
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\obj\x86\Debug\Winform13-面向对象在winform中使用-石头剪刀布.pdb

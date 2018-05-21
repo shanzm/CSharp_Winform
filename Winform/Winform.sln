@@ -1,0 +1,104 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform3-文本框和label", "Winform3-文本框TextBox和标签Label\Winform3-文本框和label.csproj", "{004E41D9-B5C8-493B-AC6E-7D40AF1C8DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform4-Timer", "Winform4-Timer\Winform4-Timer.csproj", "{5B01EC82-3BCD-400D-A5C9-A4E70C6BD835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform4-Timer练习-闹钟", "Winform4-Timer练习-闹钟\Winform4-Timer练习-闹钟.csproj", "{8E4FA33E-C2E9-42B0-B402-B54A923D40E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform5-记事本", "Winform5-记事本\Winform5-记事本.csproj", "{C1DB60C2-7724-4707-B96F-0225DD49C0C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform6-单选框和多选框", "Winform6-单选框和多选框\Winform6-单选框和多选框.csproj", "{9FEE704C-81CB-4AD2-B306-ED827C689E45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WInform6-单选框练习", "WInform6-单选框练习\WInform6-单选框练习.csproj", "{97602AD2-C562-499C-9484-8AA1BF8DBAF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform7-MDI窗体", "Winform7-MDI窗体\Winform7-MDI窗体.csproj", "{EA50CCC6-86C7-4DA7-9FA8-8159D949EE3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform10-WebBrowser控件", "Winform10-WebBrower控件\Winform10-WebBrowser控件.csproj", "{3DF9ADEF-7AD6-455D-BD17-3993E7D10C37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform11-ListBox控件", "Winform11-ListBox控件\Winform11-ListBox控件.csproj", "{7AE4FCF0-3D38-4A86-8896-C21FDDB6DE8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform9-ComboBox控件", "Winform9-ComboBox控件\Winform9-ComboBox控件.csproj", "{C3B034F4-323D-4711-977C-E928D0671241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform2-MouseEnter练习", "Winform2-MouseEnter练习\Winform-MouseEnter练习\Winform2-MouseEnter练习.csproj", "{6694E4F7-F1B7-4446-8874-A339007B3D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform8-PictureBox-照片翻页", "Winform8-PictureBox-照片翻页\Winform8-PictureBox-照片翻页.csproj", "{6938ABA8-4494-4DE5-A8C3-8D55A6A42980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform13-面向对象在winform中使用-石头剪刀布", "Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布\Winform13-面向对象在winform中使用-石头剪刀布.csproj", "{170BB116-D216-419E-9CB1-57F34F2C841A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform13-文件对话框", "Winform13-文件对话框\Winform13-文件对话框.csproj", "{4E206CE5-75DC-4B14-876F-81D601D5C86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform14-完整记事本", "Winform14-完整记事本\Winform14-完整记事本.csproj", "{D199D9E0-C174-4928-8A9A-40A0AAE6B35D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{004E41D9-B5C8-493B-AC6E-7D40AF1C8DEA}.Debug|x86.ActiveCfg = Debug|x86
+		{004E41D9-B5C8-493B-AC6E-7D40AF1C8DEA}.Debug|x86.Build.0 = Debug|x86
+		{004E41D9-B5C8-493B-AC6E-7D40AF1C8DEA}.Release|x86.ActiveCfg = Release|x86
+		{004E41D9-B5C8-493B-AC6E-7D40AF1C8DEA}.Release|x86.Build.0 = Release|x86
+		{5B01EC82-3BCD-400D-A5C9-A4E70C6BD835}.Debug|x86.ActiveCfg = Debug|x86
+		{5B01EC82-3BCD-400D-A5C9-A4E70C6BD835}.Debug|x86.Build.0 = Debug|x86
+		{5B01EC82-3BCD-400D-A5C9-A4E70C6BD835}.Release|x86.ActiveCfg = Release|x86
+		{5B01EC82-3BCD-400D-A5C9-A4E70C6BD835}.Release|x86.Build.0 = Release|x86
+		{8E4FA33E-C2E9-42B0-B402-B54A923D40E1}.Debug|x86.ActiveCfg = Debug|x86
+		{8E4FA33E-C2E9-42B0-B402-B54A923D40E1}.Debug|x86.Build.0 = Debug|x86
+		{8E4FA33E-C2E9-42B0-B402-B54A923D40E1}.Release|x86.ActiveCfg = Release|x86
+		{8E4FA33E-C2E9-42B0-B402-B54A923D40E1}.Release|x86.Build.0 = Release|x86
+		{C1DB60C2-7724-4707-B96F-0225DD49C0C6}.Debug|x86.ActiveCfg = Debug|x86
+		{C1DB60C2-7724-4707-B96F-0225DD49C0C6}.Debug|x86.Build.0 = Debug|x86
+		{C1DB60C2-7724-4707-B96F-0225DD49C0C6}.Release|x86.ActiveCfg = Release|x86
+		{C1DB60C2-7724-4707-B96F-0225DD49C0C6}.Release|x86.Build.0 = Release|x86
+		{9FEE704C-81CB-4AD2-B306-ED827C689E45}.Debug|x86.ActiveCfg = Debug|x86
+		{9FEE704C-81CB-4AD2-B306-ED827C689E45}.Debug|x86.Build.0 = Debug|x86
+		{9FEE704C-81CB-4AD2-B306-ED827C689E45}.Release|x86.ActiveCfg = Release|x86
+		{9FEE704C-81CB-4AD2-B306-ED827C689E45}.Release|x86.Build.0 = Release|x86
+		{97602AD2-C562-499C-9484-8AA1BF8DBAF3}.Debug|x86.ActiveCfg = Debug|x86
+		{97602AD2-C562-499C-9484-8AA1BF8DBAF3}.Debug|x86.Build.0 = Debug|x86
+		{97602AD2-C562-499C-9484-8AA1BF8DBAF3}.Release|x86.ActiveCfg = Release|x86
+		{97602AD2-C562-499C-9484-8AA1BF8DBAF3}.Release|x86.Build.0 = Release|x86
+		{EA50CCC6-86C7-4DA7-9FA8-8159D949EE3F}.Debug|x86.ActiveCfg = Debug|x86
+		{EA50CCC6-86C7-4DA7-9FA8-8159D949EE3F}.Debug|x86.Build.0 = Debug|x86
+		{EA50CCC6-86C7-4DA7-9FA8-8159D949EE3F}.Release|x86.ActiveCfg = Release|x86
+		{EA50CCC6-86C7-4DA7-9FA8-8159D949EE3F}.Release|x86.Build.0 = Release|x86
+		{3DF9ADEF-7AD6-455D-BD17-3993E7D10C37}.Debug|x86.ActiveCfg = Debug|x86
+		{3DF9ADEF-7AD6-455D-BD17-3993E7D10C37}.Debug|x86.Build.0 = Debug|x86
+		{3DF9ADEF-7AD6-455D-BD17-3993E7D10C37}.Release|x86.ActiveCfg = Release|x86
+		{3DF9ADEF-7AD6-455D-BD17-3993E7D10C37}.Release|x86.Build.0 = Release|x86
+		{7AE4FCF0-3D38-4A86-8896-C21FDDB6DE8E}.Debug|x86.ActiveCfg = Debug|x86
+		{7AE4FCF0-3D38-4A86-8896-C21FDDB6DE8E}.Debug|x86.Build.0 = Debug|x86
+		{7AE4FCF0-3D38-4A86-8896-C21FDDB6DE8E}.Release|x86.ActiveCfg = Release|x86
+		{7AE4FCF0-3D38-4A86-8896-C21FDDB6DE8E}.Release|x86.Build.0 = Release|x86
+		{C3B034F4-323D-4711-977C-E928D0671241}.Debug|x86.ActiveCfg = Debug|x86
+		{C3B034F4-323D-4711-977C-E928D0671241}.Debug|x86.Build.0 = Debug|x86
+		{C3B034F4-323D-4711-977C-E928D0671241}.Release|x86.ActiveCfg = Release|x86
+		{C3B034F4-323D-4711-977C-E928D0671241}.Release|x86.Build.0 = Release|x86
+		{6694E4F7-F1B7-4446-8874-A339007B3D05}.Debug|x86.ActiveCfg = Debug|x86
+		{6694E4F7-F1B7-4446-8874-A339007B3D05}.Debug|x86.Build.0 = Debug|x86
+		{6694E4F7-F1B7-4446-8874-A339007B3D05}.Release|x86.ActiveCfg = Release|x86
+		{6694E4F7-F1B7-4446-8874-A339007B3D05}.Release|x86.Build.0 = Release|x86
+		{6938ABA8-4494-4DE5-A8C3-8D55A6A42980}.Debug|x86.ActiveCfg = Debug|x86
+		{6938ABA8-4494-4DE5-A8C3-8D55A6A42980}.Debug|x86.Build.0 = Debug|x86
+		{6938ABA8-4494-4DE5-A8C3-8D55A6A42980}.Release|x86.ActiveCfg = Release|x86
+		{6938ABA8-4494-4DE5-A8C3-8D55A6A42980}.Release|x86.Build.0 = Release|x86
+		{170BB116-D216-419E-9CB1-57F34F2C841A}.Debug|x86.ActiveCfg = Debug|x86
+		{170BB116-D216-419E-9CB1-57F34F2C841A}.Debug|x86.Build.0 = Debug|x86
+		{170BB116-D216-419E-9CB1-57F34F2C841A}.Release|x86.ActiveCfg = Release|x86
+		{170BB116-D216-419E-9CB1-57F34F2C841A}.Release|x86.Build.0 = Release|x86
+		{4E206CE5-75DC-4B14-876F-81D601D5C86D}.Debug|x86.ActiveCfg = Debug|x86
+		{4E206CE5-75DC-4B14-876F-81D601D5C86D}.Debug|x86.Build.0 = Debug|x86
+		{4E206CE5-75DC-4B14-876F-81D601D5C86D}.Release|x86.ActiveCfg = Release|x86
+		{4E206CE5-75DC-4B14-876F-81D601D5C86D}.Release|x86.Build.0 = Release|x86
+		{D199D9E0-C174-4928-8A9A-40A0AAE6B35D}.Debug|x86.ActiveCfg = Debug|x86
+		{D199D9E0-C174-4928-8A9A-40A0AAE6B35D}.Debug|x86.Build.0 = Debug|x86
+		{D199D9E0-C174-4928-8A9A-40A0AAE6B35D}.Release|x86.ActiveCfg = Release|x86
+		{D199D9E0-C174-4928-8A9A-40A0AAE6B35D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform14-完整记事本\bin\Debug\Winform14-完整记事本.exe
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform14-完整记事本\bin\Debug\Winform14-完整记事本.pdb
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform14-完整记事本\obj\x86\Debug\Winform14-完整记事本.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform14-完整记事本\obj\x86\Debug\Winform14_完整记事本.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform14-完整记事本\obj\x86\Debug\Winform14_完整记事本.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform14-完整记事本\obj\x86\Debug\Winform14-完整记事本.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform14-完整记事本\obj\x86\Debug\Winform14-完整记事本.exe
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform14-完整记事本\obj\x86\Debug\Winform14-完整记事本.pdb
