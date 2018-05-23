@@ -1,0 +1,9 @@
+d:\documents\visual studio 2010\Projects\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm_GDI_验证码.Form1.resources
+d:\documents\visual studio 2010\Projects\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm_GDI_验证码.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm-GDI_验证码.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\WinForm-GDI_验证码\WinForm-GDI_验证码\bin\Debug\WinForm-GDI_验证码.exe
+d:\documents\visual studio 2010\Projects\WinForm-GDI_验证码\WinForm-GDI_验证码\bin\Debug\WinForm-GDI_验证码.pdb
+d:\documents\visual studio 2010\Projects\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm-GDI_验证码.exe
+d:\documents\visual studio 2010\Projects\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm-GDI_验证码.pdb
+D:\ForGit\CSharp_Winform\Winform\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm-GDI_验证码.exe
+D:\ForGit\CSharp_Winform\Winform\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm-GDI_验证码.pdb
