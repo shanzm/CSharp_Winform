@@ -5,3 +5,5 @@ D:\Documents\Visual Studio 2010\Projects\Winform\WInform6-单选框练习\obj\x8
 D:\Documents\Visual Studio 2010\Projects\Winform\WInform6-单选框练习\obj\x86\Debug\WInform6-单选框练习.csproj.GenerateResource.Cache
 D:\Documents\Visual Studio 2010\Projects\Winform\WInform6-单选框练习\obj\x86\Debug\WInform6-单选框练习.exe
 D:\Documents\Visual Studio 2010\Projects\Winform\WInform6-单选框练习\obj\x86\Debug\WInform6-单选框练习.pdb
+D:\ForGit\CSharp_Winform\Winform\WInform6-单选框练习\obj\x86\Debug\WInform6-单选框练习.exe
+D:\ForGit\CSharp_Winform\Winform\WInform6-单选框练习\obj\x86\Debug\WInform6-单选框练习.pdb

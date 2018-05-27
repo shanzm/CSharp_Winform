@@ -12,3 +12,5 @@ D:\Documents\Visual Studio 2010\Projects\Winform\Winform4-Timer\obj\x86\Debug\Wi
 D:\Documents\Visual Studio 2010\Projects\Winform\Winform4-Timer\obj\x86\Debug\Winform4-Timer.csproj.GenerateResource.Cache
 D:\Documents\Visual Studio 2010\Projects\Winform\Winform4-Timer\obj\x86\Debug\Winform4-Timer.exe
 D:\Documents\Visual Studio 2010\Projects\Winform\Winform4-Timer\obj\x86\Debug\Winform4-Timer.pdb
+D:\ForGit\CSharp_Winform\Winform\Winform4-Timer\obj\x86\Debug\Winform4-Timer.exe
+D:\ForGit\CSharp_Winform\Winform\Winform4-Timer\obj\x86\Debug\Winform4-Timer.pdb

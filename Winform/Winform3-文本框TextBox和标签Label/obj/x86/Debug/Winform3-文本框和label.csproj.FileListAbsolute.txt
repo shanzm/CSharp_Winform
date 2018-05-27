@@ -19,3 +19,5 @@ D:\Documents\Visual Studio 2010\Projects\Winform\Winform3-文本框TextBox和标
 D:\Documents\Visual Studio 2010\Projects\Winform\Winform3-文本框TextBox和标签Label\obj\x86\Debug\Winform3-文本框和label.csproj.GenerateResource.Cache
 D:\Documents\Visual Studio 2010\Projects\Winform\Winform3-文本框TextBox和标签Label\obj\x86\Debug\Winform-文本框和label.exe
 D:\Documents\Visual Studio 2010\Projects\Winform\Winform3-文本框TextBox和标签Label\obj\x86\Debug\Winform-文本框和label.pdb
+D:\ForGit\CSharp_Winform\Winform\Winform3-文本框TextBox和标签Label\obj\x86\Debug\Winform-文本框和label.exe
+D:\ForGit\CSharp_Winform\Winform\Winform3-文本框TextBox和标签Label\obj\x86\Debug\Winform-文本框和label.pdb
