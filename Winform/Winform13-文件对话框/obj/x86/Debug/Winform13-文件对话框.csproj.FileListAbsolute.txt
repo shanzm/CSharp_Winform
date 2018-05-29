@@ -5,4 +5,3 @@ D:\Documents\Visual Studio 2010\Projects\Winform\Winform13-文件对话框\obj\x
 D:\Documents\Visual Studio 2010\Projects\Winform\Winform13-文件对话框\obj\x86\Debug\Winform13-文件对话框.csproj.GenerateResource.Cache
 D:\Documents\Visual Studio 2010\Projects\Winform\Winform13-文件对话框\obj\x86\Debug\Winform13-文件对话框.exe
 D:\Documents\Visual Studio 2010\Projects\Winform\Winform13-文件对话框\obj\x86\Debug\Winform13-文件对话框.pdb
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform13-文件对话框\obj\x86\Debug\Winform13-文件对话框.csprojResolveAssemblyReference.cache

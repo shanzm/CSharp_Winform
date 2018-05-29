@@ -1,9 +1,0 @@
-D:\Documents\Visual Studio 2010\Projects\Winform-1\Winform-1\bin\Debug\Winform-1.exe
-D:\Documents\Visual Studio 2010\Projects\Winform-1\Winform-1\bin\Debug\Winform-1.pdb
-D:\Documents\Visual Studio 2010\Projects\Winform-1\Winform-1\obj\x86\Debug\Winform_1.Form1.resources
-D:\Documents\Visual Studio 2010\Projects\Winform-1\Winform-1\obj\x86\Debug\Winform_1.Form2.resources
-D:\Documents\Visual Studio 2010\Projects\Winform-1\Winform-1\obj\x86\Debug\Winform_1.Form3.resources
-D:\Documents\Visual Studio 2010\Projects\Winform-1\Winform-1\obj\x86\Debug\Winform_1.Properties.Resources.resources
-D:\Documents\Visual Studio 2010\Projects\Winform-1\Winform-1\obj\x86\Debug\Winform1.csproj.GenerateResource.Cache
-D:\Documents\Visual Studio 2010\Projects\Winform-1\Winform-1\obj\x86\Debug\Winform-1.exe
-D:\Documents\Visual Studio 2010\Projects\Winform-1\Winform-1\obj\x86\Debug\Winform-1.pdb
