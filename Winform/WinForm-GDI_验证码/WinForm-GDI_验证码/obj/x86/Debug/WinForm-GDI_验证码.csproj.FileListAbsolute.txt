@@ -5,10 +5,10 @@ d:\documents\visual studio 2010\Projects\WinForm-GDI_验证码\WinForm-GDI_验�
 d:\documents\visual studio 2010\Projects\WinForm-GDI_验证码\WinForm-GDI_验证码\bin\Debug\WinForm-GDI_验证码.pdb
 d:\documents\visual studio 2010\Projects\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm-GDI_验证码.exe
 d:\documents\visual studio 2010\Projects\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm-GDI_验证码.pdb
-D:\Documents\Visual Studio 2010\Projects\Winform\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm-GDI_验证码.exe
-D:\Documents\Visual Studio 2010\Projects\Winform\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm-GDI_验证码.pdb
 D:\Documents\Visual Studio 2010\Projects\Winform\WinForm-GDI_验证码\WinForm-GDI_验证码\bin\Debug\WinForm-GDI_验证码.exe
 D:\Documents\Visual Studio 2010\Projects\Winform\WinForm-GDI_验证码\WinForm-GDI_验证码\bin\Debug\WinForm-GDI_验证码.pdb
 D:\Documents\Visual Studio 2010\Projects\Winform\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm_GDI_验证码.Form1.resources
 D:\Documents\Visual Studio 2010\Projects\Winform\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm_GDI_验证码.Properties.Resources.resources
 D:\Documents\Visual Studio 2010\Projects\Winform\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm-GDI_验证码.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\Winform\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm-GDI_验证码.exe
+D:\Documents\Visual Studio 2010\Projects\Winform\WinForm-GDI_验证码\WinForm-GDI_验证码\obj\x86\Debug\WinForm-GDI_验证码.pdb

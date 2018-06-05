@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002线程", "线程和进�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002线程-摇奖机", "线程和进程\002线程-摇奖机\002线程-摇奖机.csproj", "{6E3302A5-8697-43D2-9F8D-C23426EAC474}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform-15-单例模式", "Winform-15-单例模式\Winform-15-单例模式.csproj", "{D6BB89AB-36F7-437F-8837-FD7BA37C2766}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -135,6 +137,10 @@ Global
 		{6E3302A5-8697-43D2-9F8D-C23426EAC474}.Debug|x86.Build.0 = Debug|x86
 		{6E3302A5-8697-43D2-9F8D-C23426EAC474}.Release|x86.ActiveCfg = Release|x86
 		{6E3302A5-8697-43D2-9F8D-C23426EAC474}.Release|x86.Build.0 = Release|x86
+		{D6BB89AB-36F7-437F-8837-FD7BA37C2766}.Debug|x86.ActiveCfg = Debug|x86
+		{D6BB89AB-36F7-437F-8837-FD7BA37C2766}.Debug|x86.Build.0 = Debug|x86
+		{D6BB89AB-36F7-437F-8837-FD7BA37C2766}.Release|x86.ActiveCfg = Release|x86
+		{D6BB89AB-36F7-437F-8837-FD7BA37C2766}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

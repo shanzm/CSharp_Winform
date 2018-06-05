@@ -5,10 +5,10 @@ D:\documents\visual studio 2010\Projects\Socket网络编程\002线程\obj\x86\De
 D:\documents\visual studio 2010\Projects\Socket网络编程\002线程\obj\x86\Debug\002线程.csproj.GenerateResource.Cache
 D:\documents\visual studio 2010\Projects\Socket网络编程\002线程\obj\x86\Debug\002线程.exe
 D:\documents\visual studio 2010\Projects\Socket网络编程\002线程\obj\x86\Debug\002线程.pdb
-D:\Documents\Visual Studio 2010\Projects\Winform\线程和进程\002线程\obj\x86\Debug\002线程.exe
-D:\Documents\Visual Studio 2010\Projects\Winform\线程和进程\002线程\obj\x86\Debug\002线程.pdb
 D:\Documents\Visual Studio 2010\Projects\Winform\线程和进程\002线程\bin\Debug\002线程.exe
 D:\Documents\Visual Studio 2010\Projects\Winform\线程和进程\002线程\bin\Debug\002线程.pdb
 D:\Documents\Visual Studio 2010\Projects\Winform\线程和进程\002线程\obj\x86\Debug\_002线程.Form1.resources
 D:\Documents\Visual Studio 2010\Projects\Winform\线程和进程\002线程\obj\x86\Debug\_002线程.Properties.Resources.resources
 D:\Documents\Visual Studio 2010\Projects\Winform\线程和进程\002线程\obj\x86\Debug\002线程.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\Winform\线程和进程\002线程\obj\x86\Debug\002线程.exe
+D:\Documents\Visual Studio 2010\Projects\Winform\线程和进程\002线程\obj\x86\Debug\002线程.pdb
