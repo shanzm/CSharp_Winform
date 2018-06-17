@@ -27,6 +27,7 @@ namespace Winform13_文件对话框
         /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
+            //其实为了快速释放资源，一般是使用using( OpenFileDialog ofd = new OpenFileDialog()){。。。。。}
             OpenFileDialog ofd = new OpenFileDialog();
             //弹出对话框的名称
             ofd.Title = "请选择文件";
