@@ -1,7 +1,0 @@
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform11-ListBox控件\bin\Debug\Winform12-ListBox.exe
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform11-ListBox控件\bin\Debug\Winform12-ListBox.pdb
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform11-ListBox控件\obj\x86\Debug\Winform12_ListBox.Form1.resources
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform11-ListBox控件\obj\x86\Debug\Winform12_ListBox.Properties.Resources.resources
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform11-ListBox控件\obj\x86\Debug\Winform11-ListBox控件.csproj.GenerateResource.Cache
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform11-ListBox控件\obj\x86\Debug\Winform12-ListBox.exe
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform11-ListBox控件\obj\x86\Debug\Winform12-ListBox.pdb

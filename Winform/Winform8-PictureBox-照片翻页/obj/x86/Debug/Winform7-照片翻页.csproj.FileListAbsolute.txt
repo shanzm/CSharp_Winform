@@ -1,7 +1,0 @@
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform7-照片翻页\bin\Debug\Winform7-照片翻页.exe
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform7-照片翻页\bin\Debug\Winform7-照片翻页.pdb
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform7-照片翻页\obj\x86\Debug\Winform7_照片翻页.Form1.resources
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform7-照片翻页\obj\x86\Debug\Winform7_照片翻页.Properties.Resources.resources
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform7-照片翻页\obj\x86\Debug\Winform7-照片翻页.csproj.GenerateResource.Cache
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform7-照片翻页\obj\x86\Debug\Winform7-照片翻页.exe
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform7-照片翻页\obj\x86\Debug\Winform7-照片翻页.pdb

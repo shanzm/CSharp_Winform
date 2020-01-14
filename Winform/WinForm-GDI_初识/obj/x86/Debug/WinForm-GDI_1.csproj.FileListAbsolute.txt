@@ -1,7 +1,0 @@
-D:\ForGit\CSharp_Winform\Winform\WinForm-GDI_1\obj\x86\Debug\WinForm_GDI_1.Form1.resources
-D:\ForGit\CSharp_Winform\Winform\WinForm-GDI_1\obj\x86\Debug\WinForm_GDI_1.Properties.Resources.resources
-D:\ForGit\CSharp_Winform\Winform\WinForm-GDI_1\obj\x86\Debug\WinForm-GDI_1.csproj.GenerateResource.Cache
-D:\ForGit\CSharp_Winform\Winform\WinForm-GDI_1\bin\Debug\WinForm-GDI_1.exe
-D:\ForGit\CSharp_Winform\Winform\WinForm-GDI_1\bin\Debug\WinForm-GDI_1.pdb
-D:\ForGit\CSharp_Winform\Winform\WinForm-GDI_1\obj\x86\Debug\WinForm-GDI_1.exe
-D:\ForGit\CSharp_Winform\Winform\WinForm-GDI_1\obj\x86\Debug\WinForm-GDI_1.pdb

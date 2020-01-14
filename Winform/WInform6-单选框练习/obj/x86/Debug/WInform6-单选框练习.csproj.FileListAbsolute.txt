@@ -1,7 +1,0 @@
-D:\Documents\Visual Studio 2010\Projects\Winform\WInform6-单选框练习\bin\Debug\WInform6-单选框练习.exe
-D:\Documents\Visual Studio 2010\Projects\Winform\WInform6-单选框练习\bin\Debug\WInform6-单选框练习.pdb
-D:\Documents\Visual Studio 2010\Projects\Winform\WInform6-单选框练习\obj\x86\Debug\WInform6_单选框练习.Form1.resources
-D:\Documents\Visual Studio 2010\Projects\Winform\WInform6-单选框练习\obj\x86\Debug\WInform6_单选框练习.Properties.Resources.resources
-D:\Documents\Visual Studio 2010\Projects\Winform\WInform6-单选框练习\obj\x86\Debug\WInform6-单选框练习.csproj.GenerateResource.Cache
-D:\Documents\Visual Studio 2010\Projects\Winform\WInform6-单选框练习\obj\x86\Debug\WInform6-单选框练习.exe
-D:\Documents\Visual Studio 2010\Projects\Winform\WInform6-单选框练习\obj\x86\Debug\WInform6-单选框练习.pdb
