@@ -49,6 +49,7 @@
             // 
             this.gvwUser.GridControl = this.gridControl;
             this.gvwUser.Name = "gvwUser";
+        
             this.gvwUser.PopupMenuShowing += new DevExpress.XtraGrid.Views.Grid.PopupMenuShowingEventHandler(this.gvwUser_PopupMenuShowing);
             // 
             // MainForm
