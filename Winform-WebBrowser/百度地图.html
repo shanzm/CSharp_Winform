@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>百度地图的Hello World</title>
+    <style type="text/css">
+        body, html, #allmap
+        {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            margin: 0;
+        }
+        #l-map
+        {
+            height: 100%;
+            width: 78%;
+            float: left;
+            border-right: 2px solid #bcbcbc;
+        }
+        #r-result
+        {
+            height: 100%;
+            width: 20%;
+            float: left;
+        }
+    </style>
+ 
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=1.5&ak=6c497f51c06477544e5fa6e9bd68f7c3"></script>
+ 
+</head>
+<body>
+    <div id="allmap">
+    </div>
+</body>
+</html>
+ 
+<script type="text/javascript">
+    //alert("Hello World");
+    var map = new BMap.Map("allmap");               // 创建Map实例
+ 
+    var point = new BMap.Point(121.504, 31.212);    // 创建点坐标(经度,纬度)
+    map.centerAndZoom(point, 11);                   // 初始化地图,设置中心点坐标和地图大小级别
+    map.addOverlay(new BMap.Marker(point));         // 给该坐标加一个红点标记
+ 
+    //var traffic = new BMap.TrafficLayer();         // 创建交通流量图层实例     
+    //map.addTileLayer(traffic);                     // 将图层添加到地图上   
+ 
+    map.addControl(new BMap.NavigationControl());   // 添加平移缩放控件
+    map.addControl(new BMap.ScaleControl());        // 添加比例尺控件
+    map.addControl(new BMap.OverviewMapControl());  //添加缩略地图控件
+ 
+    map.addControl(new BMap.MapTypeControl());      //添加地图类型控件
+    map.setCurrentCity("上海");                     //设置地图显示的城市
+ 
+ 
+    map.enableScrollWheelZoom();                    //启用滚轮放大缩小
+     
+    function setLocation(x,y){//参数：经纬度
+         var point = new BMap.Point(x, y);   
+         map.centerAndZoom(point, 11);                  
+         map.addOverlay(new BMap.Marker(point));      
+    }
+</script>
