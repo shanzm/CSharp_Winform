@@ -36,7 +36,7 @@ namespace DEV2_GridView
 
 
             gvwUser.OptionsView.EnableAppearanceEvenRow = true;         //奇偶行显示不同的颜色
-            gvwUser.OptionsView.EnableAppearanceOddRow = true;
+            gvwUser.OptionsView.EnableAppearanceOddRow = true;           
 
             //关于右键菜单栏
             //gvwUser.OptionsMenu.EnableColumnMenu = false;             //禁止列头的右键菜单栏
