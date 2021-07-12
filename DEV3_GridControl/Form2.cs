@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DEV3_GridControl
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public void  Form1()
         {
             InitializeComponent();
         }
@@ -38,7 +38,7 @@ namespace DEV3_GridControl
 
             //数据源是绑定的GridControl,GridView是GirdControl中一种显示数据的方式，GridView是最接近Datatable的样式
             this.gridControl_company.DataSource = companies;
-            this.gridView_company.PopulateColumns();//注这行代码，加上则是无需在run designer中添加数据源的列，默认会将数据源中的所有列显示出来。显示的列头就是数据库中的字段名
+            this.gridView_company.PopulateColumns();
         }
 
 

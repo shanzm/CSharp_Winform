@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DEV3_GridControl
+namespace DEV5_选中行右键操作
 {
     public partial class Form1 : Form
     {
@@ -17,11 +17,11 @@ namespace DEV3_GridControl
             InitializeComponent();
         }
 
-
         private void Form1_Load(object sender, EventArgs e)
         {
             BindDataSource();
         }
+
 
         /// <summary>
         /// 绑定并刷新数据源
@@ -37,10 +37,17 @@ namespace DEV3_GridControl
 
 
             //数据源是绑定的GridControl,GridView是GirdControl中一种显示数据的方式，GridView是最接近Datatable的样式
-            this.gridControl_company.DataSource = companies;
-            this.gridView_company.PopulateColumns();//注这行代码，加上则是无需在run designer中添加数据源的列，默认会将数据源中的所有列显示出来。显示的列头就是数据库中的字段名
+
+            this.gridControl_Company.DataSource = companies;
+            //this.gridView_Company.PopulateColumns();
         }
+    }
 
-
+    public class Company
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Address { get; set; }
+        public string LegelPerson { get; set; }
     }
 }
