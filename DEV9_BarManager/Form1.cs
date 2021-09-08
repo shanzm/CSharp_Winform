@@ -15,6 +15,8 @@ namespace DEV9_BarManger
         public Form1()
         {
             InitializeComponent();
+
+            ///注意BarManager
         }
     }
 }
