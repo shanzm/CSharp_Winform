@@ -49,7 +49,7 @@ namespace DEV11_SplitContainerControl
             this.splitContainerControl1.Panel2.Controls.Add(this.splitContainerControl2);
             this.splitContainerControl1.Panel2.Text = "Panel2";
             this.splitContainerControl1.Size = new System.Drawing.Size(800, 450);
-            this.splitContainerControl1.SplitterPosition = 328;
+            this.splitContainerControl1.SplitterPosition = 132;
             this.splitContainerControl1.TabIndex = 0;
             // 
             // splitContainerControl2
@@ -64,8 +64,8 @@ namespace DEV11_SplitContainerControl
             this.splitContainerControl2.Panel2.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.splitContainerControl2.Panel2.Appearance.Options.UseBackColor = true;
             this.splitContainerControl2.Panel2.Text = "Panel2";
-            this.splitContainerControl2.Size = new System.Drawing.Size(466, 450);
-            this.splitContainerControl2.SplitterPosition = 198;
+            this.splitContainerControl2.Size = new System.Drawing.Size(662, 450);
+            this.splitContainerControl2.SplitterPosition = 216;
             this.splitContainerControl2.TabIndex = 0;
             // 
             // Form2

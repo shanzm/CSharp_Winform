@@ -16,5 +16,9 @@ namespace DEV11_SplitContainerControl
         {
             InitializeComponent();
         }
+
+        ///使用两个SplitContainerControl进行布局
+        ///SplitContainerControl1在父容器停靠，分为左右两栏
+        ///SplitContainerControl2在SplitContainerControl的右侧栏panel2中停靠，水平分为上下两栏
     }
 }
