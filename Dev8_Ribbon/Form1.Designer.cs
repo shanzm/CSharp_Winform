@@ -29,15 +29,18 @@ namespace Dev8_Ribbon
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.ribbonControl1 = new DevExpress.XtraBars.Ribbon.RibbonControl();
             this.barButtonItem1 = new DevExpress.XtraBars.BarButtonItem();
             this.barButtonItem2 = new DevExpress.XtraBars.BarButtonItem();
             this.barButtonItem3 = new DevExpress.XtraBars.BarButtonItem();
             this.barSubItem1 = new DevExpress.XtraBars.BarSubItem();
             this.barSubItem2 = new DevExpress.XtraBars.BarSubItem();
+            this.barButtonItem4 = new DevExpress.XtraBars.BarButtonItem();
+            this.barCheckItem1 = new DevExpress.XtraBars.BarCheckItem();
+            this.barToggleSwitchItem1 = new DevExpress.XtraBars.BarToggleSwitchItem();
+            this.barStaticItem1 = new DevExpress.XtraBars.BarStaticItem();
             this.ribbonPageCategory1 = new DevExpress.XtraBars.Ribbon.RibbonPageCategory();
-            this.ribbonPage4 = new DevExpress.XtraBars.Ribbon.RibbonPage();
-            this.ribbonPageGroup5 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPage1 = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup1 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPage2 = new DevExpress.XtraBars.Ribbon.RibbonPage();
@@ -45,25 +48,35 @@ namespace Dev8_Ribbon
             this.ribbonPage3 = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup3 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPageGroup4 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
-            this.tabFormContentContainer1 = new DevExpress.XtraBars.TabFormContentContainer();
-            this.tabFormPage1 = new DevExpress.XtraBars.TabFormPage();
+            this.ribbonPage4 = new DevExpress.XtraBars.Ribbon.RibbonPage();
+            this.ribbonPageGroup5 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPageCategory2 = new DevExpress.XtraBars.Ribbon.RibbonPageCategory();
             this.ribbonPage5 = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup6 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
-            this.ribbonPage6 = new DevExpress.XtraBars.Ribbon.RibbonPage();
-            this.ribbonPageGroup7 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPageCategory3 = new DevExpress.XtraBars.Ribbon.RibbonPageCategory();
             this.ribbonPage7 = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup8 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
-            this.barButtonItem4 = new DevExpress.XtraBars.BarButtonItem();
-            this.barCheckItem1 = new DevExpress.XtraBars.BarCheckItem();
-            this.barToggleSwitchItem1 = new DevExpress.XtraBars.BarToggleSwitchItem();
-            this.barStaticItem1 = new DevExpress.XtraBars.BarStaticItem();
+            this.ribbonPage6 = new DevExpress.XtraBars.Ribbon.RibbonPage();
+            this.ribbonPageGroup7 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
+            this.tabFormContentContainer1 = new DevExpress.XtraBars.TabFormContentContainer();
+            this.tabFormPage1 = new DevExpress.XtraBars.TabFormPage();
+            this.ribbonPage8 = new DevExpress.XtraBars.Ribbon.RibbonPage();
+            this.ribbonPageGroup9 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
+            this.applicationMenu1 = new DevExpress.XtraBars.Ribbon.ApplicationMenu(this.components);
+            this.barButtonItem5 = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonItem6 = new DevExpress.XtraBars.BarButtonItem();
+            this.ribbonGalleryBarItem1 = new DevExpress.XtraBars.RibbonGalleryBarItem();
+            this.ribbonPageGroup10 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
+            this.barCheckItem2 = new DevExpress.XtraBars.BarCheckItem();
+            this.barButtonItem7 = new DevExpress.XtraBars.BarButtonItem();
+            this.barListItem1 = new DevExpress.XtraBars.BarListItem();
             ((System.ComponentModel.ISupportInitialize)(this.ribbonControl1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.applicationMenu1)).BeginInit();
             this.SuspendLayout();
             // 
             // ribbonControl1
             // 
+            this.ribbonControl1.ApplicationButtonDropDownControl = this.applicationMenu1;
             this.ribbonControl1.ExpandCollapseItem.Id = 0;
             this.ribbonControl1.Items.AddRange(new DevExpress.XtraBars.BarItem[] {
             this.ribbonControl1.ExpandCollapseItem,
@@ -75,17 +88,24 @@ namespace Dev8_Ribbon
             this.barButtonItem4,
             this.barCheckItem1,
             this.barToggleSwitchItem1,
-            this.barStaticItem1});
+            this.barStaticItem1,
+            this.barButtonItem5,
+            this.barButtonItem6,
+            this.ribbonGalleryBarItem1,
+            this.barCheckItem2,
+            this.barButtonItem7,
+            this.barListItem1});
             this.ribbonControl1.Location = new System.Drawing.Point(0, 0);
-            this.ribbonControl1.MaxItemId = 12;
+            this.ribbonControl1.MaxItemId = 18;
             this.ribbonControl1.Name = "ribbonControl1";
             this.ribbonControl1.PageCategories.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageCategory[] {
             this.ribbonPageCategory1,
             this.ribbonPageCategory2,
             this.ribbonPageCategory3});
-            this.ribbonControl1.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
-            this.ribbonPage6});
-            this.ribbonControl1.Size = new System.Drawing.Size(1540, 181);
+            this.ribbonControl1.QuickToolbarItemLinks.Add(this.barButtonItem5);
+            this.ribbonControl1.QuickToolbarItemLinks.Add(this.barButtonItem6);
+            this.ribbonControl1.QuickToolbarItemLinks.Add(this.ribbonGalleryBarItem1);
+            this.ribbonControl1.Size = new System.Drawing.Size(1923, 181);
             // 
             // barButtonItem1
             // 
@@ -117,6 +137,30 @@ namespace Dev8_Ribbon
             this.barSubItem2.Id = 5;
             this.barSubItem2.Name = "barSubItem2";
             // 
+            // barButtonItem4
+            // 
+            this.barButtonItem4.Caption = "barButtonItem4";
+            this.barButtonItem4.Id = 8;
+            this.barButtonItem4.Name = "barButtonItem4";
+            // 
+            // barCheckItem1
+            // 
+            this.barCheckItem1.Caption = "barCheckItem1";
+            this.barCheckItem1.Id = 9;
+            this.barCheckItem1.Name = "barCheckItem1";
+            // 
+            // barToggleSwitchItem1
+            // 
+            this.barToggleSwitchItem1.Caption = "barToggleSwitchItem1";
+            this.barToggleSwitchItem1.Id = 10;
+            this.barToggleSwitchItem1.Name = "barToggleSwitchItem1";
+            // 
+            // barStaticItem1
+            // 
+            this.barStaticItem1.Caption = "barStaticItem1";
+            this.barStaticItem1.Id = 11;
+            this.barStaticItem1.Name = "barStaticItem1";
+            // 
             // ribbonPageCategory1
             // 
             this.ribbonPageCategory1.Name = "ribbonPageCategory1";
@@ -126,18 +170,6 @@ namespace Dev8_Ribbon
             this.ribbonPage3,
             this.ribbonPage4});
             this.ribbonPageCategory1.Text = "ribbonPageCategory1";
-            // 
-            // ribbonPage4
-            // 
-            this.ribbonPage4.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
-            this.ribbonPageGroup5});
-            this.ribbonPage4.Name = "ribbonPage4";
-            this.ribbonPage4.Text = "ribbonPage4";
-            // 
-            // ribbonPageGroup5
-            // 
-            this.ribbonPageGroup5.Name = "ribbonPageGroup5";
-            this.ribbonPageGroup5.Text = "ribbonPageGroup5";
             // 
             // ribbonPage1
             // 
@@ -190,26 +222,24 @@ namespace Dev8_Ribbon
             this.ribbonPageGroup4.Name = "ribbonPageGroup4";
             this.ribbonPageGroup4.Text = "ribbonPageGroup4";
             // 
-            // tabFormContentContainer1
+            // ribbonPage4
             // 
-            this.tabFormContentContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tabFormContentContainer1.Location = new System.Drawing.Point(0, 0);
-            this.tabFormContentContainer1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.tabFormContentContainer1.Name = "tabFormContentContainer1";
-            this.tabFormContentContainer1.Size = new System.Drawing.Size(1540, 754);
-            this.tabFormContentContainer1.TabIndex = 2;
+            this.ribbonPage4.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
+            this.ribbonPageGroup5});
+            this.ribbonPage4.Name = "ribbonPage4";
+            this.ribbonPage4.Text = "ribbonPage4";
             // 
-            // tabFormPage1
+            // ribbonPageGroup5
             // 
-            this.tabFormPage1.ContentContainer = this.tabFormContentContainer1;
-            this.tabFormPage1.Name = "tabFormPage1";
-            this.tabFormPage1.Text = "Page 0";
+            this.ribbonPageGroup5.Name = "ribbonPageGroup5";
+            this.ribbonPageGroup5.Text = "ribbonPageGroup5";
             // 
             // ribbonPageCategory2
             // 
             this.ribbonPageCategory2.Name = "ribbonPageCategory2";
             this.ribbonPageCategory2.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
-            this.ribbonPage5});
+            this.ribbonPage5,
+            this.ribbonPage6});
             this.ribbonPageCategory2.Text = "ribbonPageCategory2";
             // 
             // ribbonPage5
@@ -224,23 +254,12 @@ namespace Dev8_Ribbon
             this.ribbonPageGroup6.Name = "ribbonPageGroup6";
             this.ribbonPageGroup6.Text = "ribbonPageGroup6";
             // 
-            // ribbonPage6
-            // 
-            this.ribbonPage6.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
-            this.ribbonPageGroup7});
-            this.ribbonPage6.Name = "ribbonPage6";
-            this.ribbonPage6.Text = "ribbonPage6";
-            // 
-            // ribbonPageGroup7
-            // 
-            this.ribbonPageGroup7.Name = "ribbonPageGroup7";
-            this.ribbonPageGroup7.Text = "ribbonPageGroup7";
-            // 
             // ribbonPageCategory3
             // 
             this.ribbonPageCategory3.Name = "ribbonPageCategory3";
             this.ribbonPageCategory3.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
-            this.ribbonPage7});
+            this.ribbonPage7,
+            this.ribbonPage8});
             this.ribbonPageCategory3.Text = "ribbonPageCategory3";
             // 
             // ribbonPage7
@@ -255,40 +274,106 @@ namespace Dev8_Ribbon
             this.ribbonPageGroup8.Name = "ribbonPageGroup8";
             this.ribbonPageGroup8.Text = "ribbonPageGroup8";
             // 
-            // barButtonItem4
+            // ribbonPage6
             // 
-            this.barButtonItem4.Caption = "barButtonItem4";
-            this.barButtonItem4.Id = 8;
-            this.barButtonItem4.Name = "barButtonItem4";
+            this.ribbonPage6.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
+            this.ribbonPageGroup7});
+            this.ribbonPage6.Name = "ribbonPage6";
+            this.ribbonPage6.Text = "ribbonPage6";
             // 
-            // barCheckItem1
+            // ribbonPageGroup7
             // 
-            this.barCheckItem1.Caption = "barCheckItem1";
-            this.barCheckItem1.Id = 9;
-            this.barCheckItem1.Name = "barCheckItem1";
+            this.ribbonPageGroup7.Name = "ribbonPageGroup7";
+            this.ribbonPageGroup7.Text = "ribbonPageGroup7";
             // 
-            // barToggleSwitchItem1
+            // tabFormContentContainer1
             // 
-            this.barToggleSwitchItem1.Caption = "barToggleSwitchItem1";
-            this.barToggleSwitchItem1.Id = 10;
-            this.barToggleSwitchItem1.Name = "barToggleSwitchItem1";
+            this.tabFormContentContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tabFormContentContainer1.Location = new System.Drawing.Point(0, 0);
+            this.tabFormContentContainer1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.tabFormContentContainer1.Name = "tabFormContentContainer1";
+            this.tabFormContentContainer1.Size = new System.Drawing.Size(1923, 551);
+            this.tabFormContentContainer1.TabIndex = 2;
             // 
-            // barStaticItem1
+            // tabFormPage1
             // 
-            this.barStaticItem1.Caption = "barStaticItem1";
-            this.barStaticItem1.Id = 11;
-            this.barStaticItem1.Name = "barStaticItem1";
+            this.tabFormPage1.ContentContainer = this.tabFormContentContainer1;
+            this.tabFormPage1.Name = "tabFormPage1";
+            this.tabFormPage1.Text = "Page 0";
+            // 
+            // ribbonPage8
+            // 
+            this.ribbonPage8.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
+            this.ribbonPageGroup9,
+            this.ribbonPageGroup10});
+            this.ribbonPage8.Name = "ribbonPage8";
+            this.ribbonPage8.Text = "ribbonPage8";
+            // 
+            // ribbonPageGroup9
+            // 
+            this.ribbonPageGroup9.Name = "ribbonPageGroup9";
+            this.ribbonPageGroup9.Text = "ribbonPageGroup9";
+            // 
+            // applicationMenu1
+            // 
+            this.applicationMenu1.Name = "applicationMenu1";
+            this.applicationMenu1.Ribbon = this.ribbonControl1;
+            // 
+            // barButtonItem5
+            // 
+            this.barButtonItem5.Caption = "barButtonItem5";
+            this.barButtonItem5.Id = 12;
+            this.barButtonItem5.Name = "barButtonItem5";
+            // 
+            // barButtonItem6
+            // 
+            this.barButtonItem6.Caption = "barButtonItem6";
+            this.barButtonItem6.Id = 13;
+            this.barButtonItem6.Name = "barButtonItem6";
+            // 
+            // ribbonGalleryBarItem1
+            // 
+            this.ribbonGalleryBarItem1.Caption = "ribbonGalleryBarItem1";
+            this.ribbonGalleryBarItem1.Id = 14;
+            this.ribbonGalleryBarItem1.Name = "ribbonGalleryBarItem1";
+            // 
+            // ribbonPageGroup10
+            // 
+            this.ribbonPageGroup10.ItemLinks.Add(this.barCheckItem2);
+            this.ribbonPageGroup10.ItemLinks.Add(this.barButtonItem7);
+            this.ribbonPageGroup10.ItemLinks.Add(this.barListItem1);
+            this.ribbonPageGroup10.Name = "ribbonPageGroup10";
+            this.ribbonPageGroup10.Text = "ribbonPageGroup10";
+            // 
+            // barCheckItem2
+            // 
+            this.barCheckItem2.Caption = "barCheckItem2";
+            this.barCheckItem2.Id = 15;
+            this.barCheckItem2.Name = "barCheckItem2";
+            // 
+            // barButtonItem7
+            // 
+            this.barButtonItem7.Caption = "barButtonItem7";
+            this.barButtonItem7.Id = 16;
+            this.barButtonItem7.Name = "barButtonItem7";
+            // 
+            // barListItem1
+            // 
+            this.barListItem1.Caption = "barListItem1";
+            this.barListItem1.Id = 17;
+            this.barListItem1.Name = "barListItem1";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1540, 754);
+            this.ClientSize = new System.Drawing.Size(1923, 551);
             this.Controls.Add(this.ribbonControl1);
             this.Controls.Add(this.tabFormContentContainer1);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.ribbonControl1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.applicationMenu1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -326,6 +411,16 @@ namespace Dev8_Ribbon
         private DevExpress.XtraBars.BarCheckItem barCheckItem1;
         private DevExpress.XtraBars.BarToggleSwitchItem barToggleSwitchItem1;
         private DevExpress.XtraBars.BarStaticItem barStaticItem1;
+        private DevExpress.XtraBars.Ribbon.ApplicationMenu applicationMenu1;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem5;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem6;
+        private DevExpress.XtraBars.RibbonGalleryBarItem ribbonGalleryBarItem1;
+        private DevExpress.XtraBars.Ribbon.RibbonPage ribbonPage8;
+        private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup9;
+        private DevExpress.XtraBars.BarCheckItem barCheckItem2;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem7;
+        private DevExpress.XtraBars.BarListItem barListItem1;
+        private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup10;
     }
 }
 
