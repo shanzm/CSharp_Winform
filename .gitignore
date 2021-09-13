@@ -240,3 +240,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/DEV3_GridControl/Properties/licenses.licx
