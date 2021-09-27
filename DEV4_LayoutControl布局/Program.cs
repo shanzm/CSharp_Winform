@@ -16,7 +16,8 @@ namespace DEV4_LayoutControl布局
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new Form1());
+            Application.Run(new Form3layoutcontrolGroup可折叠());
         }
     }
 }
