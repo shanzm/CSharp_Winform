@@ -12,5 +12,7 @@ namespace DEV3_GridControl
         public string Name { get; set; }
         public string Address { get; set; }
         public string LegelPerson { get; set; }
+        public bool IsChecked { get; set; }
     }
 }
+

@@ -18,7 +18,8 @@ namespace DEV3_GridControl
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Form1());
             //Application.Run(new Form4_event());//Form4_datasoucre
-            Application.Run(new Form5_根据行中某列数据设置样式());
+            //Application.Run(new Form5_根据行中某列数据设置样式());
+            Application.Run(new Form7第一列展示复选框());
         }
     }
 }
