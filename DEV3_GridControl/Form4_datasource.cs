@@ -7,6 +7,18 @@ namespace DEV3_GridControl
 {
     public partial class Form4_event : Form
     {
+
+        #region 其他一些函数说明
+        /// <summary>
+        /// 若是GridView 是可以编辑的则编辑后获取最新的数据源，则需要:     this.gridView1.CloseEditor
+        /// 
+        /// 若是直接改变数据源BindingSource对象则
+        ///  BindingSource1.EndEdit();
+        ///  this.gridControl1.RefreshDataSource();
+        /// </summary>
+        #endregion
+
+
         public Form4_event()
         {
             InitializeComponent();
@@ -50,7 +62,7 @@ namespace DEV3_GridControl
         private void companyBindingSource2_CurrentChanged(object sender, EventArgs e)
         {
             Company company = this.companyBindingSource2.Current as Company;
-            if (null==company)
+            if (null == company)
             {
                 return;
             }
@@ -94,6 +106,6 @@ namespace DEV3_GridControl
         }
         #endregion
 
-     
+
     }
 }

@@ -34,7 +34,7 @@ namespace DEV3_GridControl
             List<Company> companies = new List<Company>()
             {
                 new Company (){Id=1,Name="小米",Address="北京",LegelPerson="雷军"},
-                new Company (){Id=2,Name="华为",Address="深圳",LegelPerson="任正非",IsChecked=true },
+                new Company (){Id=2,Name="华为",Address="深圳",LegelPerson="任正非"/*,IsChecked=true*/ },
                 new Company (){Id=3,Name="魅族",Address="深圳",LegelPerson="黄章" },
                 new Company (){Id=1,Name="小米",Address="北京",LegelPerson="雷军"}
             };
