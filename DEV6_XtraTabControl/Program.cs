@@ -16,7 +16,8 @@ namespace DEV6_XtraTabControl
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new Form1());
+            Application.Run(new Form2_多文档界面());
         }
     }
 }
