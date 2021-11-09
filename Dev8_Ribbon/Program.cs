@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Dev8_Ribbon
@@ -16,7 +13,9 @@ namespace Dev8_Ribbon
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form2_Demo());
+            //Application.Run(new Form1());
+            //Application.Run(new Form2_Demo());
+            Application.Run(new Form3_XtralTabControl());
         }
     }
 }

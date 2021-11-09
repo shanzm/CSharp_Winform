@@ -34,9 +34,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DevExpress.Data.v19.1, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v19.1.Core, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Utils.v19.1, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.XtraBars.v19.1, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraEditors.v19.1, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraLayout.v19.1, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v19.1, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -56,6 +59,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="ChildForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm.Designer.cs">
+      <DependentUpon>ChildForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3_XtralTabControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3_XtralTabControl.Designer.cs">
+      <DependentUpon>Form3_XtralTabControl.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form2_Demo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,8 +79,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ChildForm.resx">
+      <DependentUpon>ChildForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3_XtralTabControl.resx">
+      <DependentUpon>Form3_XtralTabControl.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form2_Demo.resx">
       <DependentUpon>Form2_Demo.cs</DependentUpon>
@@ -108,6 +129,60 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\deletelist_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\506996-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\506997-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\2125546-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\2465218-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\2671166-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\2671169-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\2671174-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\2671212-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\2701861-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\2754018-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\2811404-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\2825738-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\3354829-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\3653897-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\3993384-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\4121916-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\4355425-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\4378812-200.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
