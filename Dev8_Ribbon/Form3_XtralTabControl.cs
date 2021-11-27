@@ -46,11 +46,6 @@ namespace Dev8_Ribbon
             //MessageBox.Show("test_selectedpage");
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-            TabControlHelper.AddTabPage(this.barBtnCreate.Caption, xtraTabControl1);
-        }
-
         //页面1-创建分组-创建按钮点击事件
         private void barBtnCreate_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
@@ -68,6 +63,13 @@ namespace Dev8_Ribbon
         private void barBtnLink_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             System.Diagnostics.Process.Start("https://www.baidu.com");
+        }
+
+
+
+        private void pictureEdit1_Click(object sender, EventArgs e)
+        {
+            TabControlHelper.AddTabPage("新建", xtraTabControl1);
         }
     }
 

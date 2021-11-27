@@ -56,9 +56,28 @@ namespace Dev8_Ribbon
             this.ribbonPageGroup3 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonStatusBar1 = new DevExpress.XtraBars.Ribbon.RibbonStatusBar();
             this.xtraTabPage1 = new DevExpress.XtraTab.XtraTabPage();
+            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
+            this.pictureEdit1 = new DevExpress.XtraEditors.PictureEdit();
+            this.pictureEdit2 = new DevExpress.XtraEditors.PictureEdit();
+            this.pictureEdit3 = new DevExpress.XtraEditors.PictureEdit();
+            this.pictureEdit4 = new DevExpress.XtraEditors.PictureEdit();
+            this.pictureEdit5 = new DevExpress.XtraEditors.PictureEdit();
+            this.pictureEdit6 = new DevExpress.XtraEditors.PictureEdit();
+            this.pictureEdit7 = new DevExpress.XtraEditors.PictureEdit();
+            this.pictureEdit8 = new DevExpress.XtraEditors.PictureEdit();
             this.xtraTabControl1 = new DevExpress.XtraTab.XtraTabControl();
             ((System.ComponentModel.ISupportInitialize)(this.ribbonControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.applicationMenu1)).BeginInit();
+            this.xtraTabPage1.SuspendLayout();
+            this.flowLayoutPanel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit1.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit2.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit3.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit4.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit5.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit6.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit7.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit8.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.xtraTabControl1)).BeginInit();
             this.xtraTabControl1.SuspendLayout();
             this.SuspendLayout();
@@ -96,7 +115,7 @@ namespace Dev8_Ribbon
             this.ribbonPage2});
             this.ribbonControl1.QuickToolbarItemLinks.Add(this.skinDropDownButtonItem1);
             this.ribbonControl1.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonControlStyle.Office2013;
-            this.ribbonControl1.Size = new System.Drawing.Size(658, 147);
+            this.ribbonControl1.Size = new System.Drawing.Size(817, 147);
             this.ribbonControl1.StatusBar = this.ribbonStatusBar1;
             this.ribbonControl1.ToolbarLocation = DevExpress.XtraBars.Ribbon.RibbonQuickAccessToolbarLocation.Above;
             this.ribbonControl1.SelectedPageChanged += new System.EventHandler(this.ribbonControl1_SelectedPageChanged);
@@ -202,7 +221,7 @@ namespace Dev8_Ribbon
             // 
             this.barBtnLink.Caption = "barButtonItem8";
             this.barBtnLink.Id = 16;
-            this.barBtnLink.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("barButtonItem8.ImageOptions.SvgImage")));
+            this.barBtnLink.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("barBtnLink.ImageOptions.SvgImage")));
             this.barBtnLink.Name = "barBtnLink";
             this.barBtnLink.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barBtnLink_ItemClick);
             // 
@@ -258,18 +277,140 @@ namespace Dev8_Ribbon
             this.ribbonStatusBar1.ItemLinks.Add(this.barStaticItem2);
             this.ribbonStatusBar1.ItemLinks.Add(this.barStaticItem3);
             this.ribbonStatusBar1.ItemLinks.Add(this.barStaticItem1);
-            this.ribbonStatusBar1.Location = new System.Drawing.Point(0, 431);
+            this.ribbonStatusBar1.Location = new System.Drawing.Point(0, 567);
             this.ribbonStatusBar1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ribbonStatusBar1.Name = "ribbonStatusBar1";
             this.ribbonStatusBar1.Ribbon = this.ribbonControl1;
-            this.ribbonStatusBar1.Size = new System.Drawing.Size(658, 31);
+            this.ribbonStatusBar1.Size = new System.Drawing.Size(817, 31);
             // 
             // xtraTabPage1
             // 
+            this.xtraTabPage1.Controls.Add(this.flowLayoutPanel1);
             this.xtraTabPage1.Name = "xtraTabPage1";
             this.xtraTabPage1.ShowCloseButton = DevExpress.Utils.DefaultBoolean.False;
-            this.xtraTabPage1.Size = new System.Drawing.Size(652, 255);
+            this.xtraTabPage1.Size = new System.Drawing.Size(811, 391);
             this.xtraTabPage1.Text = "首页";
+            // 
+            // flowLayoutPanel1
+            // 
+            this.flowLayoutPanel1.Controls.Add(this.pictureEdit1);
+            this.flowLayoutPanel1.Controls.Add(this.pictureEdit2);
+            this.flowLayoutPanel1.Controls.Add(this.pictureEdit3);
+            this.flowLayoutPanel1.Controls.Add(this.pictureEdit4);
+            this.flowLayoutPanel1.Controls.Add(this.pictureEdit5);
+            this.flowLayoutPanel1.Controls.Add(this.pictureEdit6);
+            this.flowLayoutPanel1.Controls.Add(this.pictureEdit7);
+            this.flowLayoutPanel1.Controls.Add(this.pictureEdit8);
+            this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 0);
+            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(811, 391);
+            this.flowLayoutPanel1.TabIndex = 0;
+            // 
+            // pictureEdit1
+            // 
+            this.pictureEdit1.EditValue = global::Dev8_Ribbon.Properties.Resources._2754018_200;
+            this.pictureEdit1.Location = new System.Drawing.Point(20, 20);
+            this.pictureEdit1.Margin = new System.Windows.Forms.Padding(20);
+            this.pictureEdit1.MenuManager = this.ribbonControl1;
+            this.pictureEdit1.Name = "pictureEdit1";
+            this.pictureEdit1.Properties.InitialImageOptions.Image = global::Dev8_Ribbon.Properties.Resources._2125546_200;
+            this.pictureEdit1.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
+            this.pictureEdit1.Properties.SizeMode = DevExpress.XtraEditors.Controls.PictureSizeMode.Zoom;
+            this.pictureEdit1.Size = new System.Drawing.Size(100, 96);
+            this.pictureEdit1.TabIndex = 0;
+            this.pictureEdit1.Click += new System.EventHandler(this.pictureEdit1_Click);
+            // 
+            // pictureEdit2
+            // 
+            this.pictureEdit2.EditValue = global::Dev8_Ribbon.Properties.Resources._2465218_200;
+            this.pictureEdit2.Location = new System.Drawing.Point(160, 20);
+            this.pictureEdit2.Margin = new System.Windows.Forms.Padding(20);
+            this.pictureEdit2.MenuManager = this.ribbonControl1;
+            this.pictureEdit2.Name = "pictureEdit2";
+            this.pictureEdit2.Properties.InitialImageOptions.Image = global::Dev8_Ribbon.Properties.Resources._2125546_200;
+            this.pictureEdit2.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
+            this.pictureEdit2.Properties.SizeMode = DevExpress.XtraEditors.Controls.PictureSizeMode.Zoom;
+            this.pictureEdit2.Size = new System.Drawing.Size(100, 96);
+            this.pictureEdit2.TabIndex = 1;
+            // 
+            // pictureEdit3
+            // 
+            this.pictureEdit3.EditValue = global::Dev8_Ribbon.Properties.Resources._2671166_200;
+            this.pictureEdit3.Location = new System.Drawing.Point(300, 20);
+            this.pictureEdit3.Margin = new System.Windows.Forms.Padding(20);
+            this.pictureEdit3.MenuManager = this.ribbonControl1;
+            this.pictureEdit3.Name = "pictureEdit3";
+            this.pictureEdit3.Properties.InitialImageOptions.Image = global::Dev8_Ribbon.Properties.Resources._2125546_200;
+            this.pictureEdit3.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
+            this.pictureEdit3.Properties.SizeMode = DevExpress.XtraEditors.Controls.PictureSizeMode.Zoom;
+            this.pictureEdit3.Size = new System.Drawing.Size(100, 96);
+            this.pictureEdit3.TabIndex = 2;
+            // 
+            // pictureEdit4
+            // 
+            this.pictureEdit4.EditValue = global::Dev8_Ribbon.Properties.Resources._2671169_200;
+            this.pictureEdit4.Location = new System.Drawing.Point(440, 20);
+            this.pictureEdit4.Margin = new System.Windows.Forms.Padding(20);
+            this.pictureEdit4.MenuManager = this.ribbonControl1;
+            this.pictureEdit4.Name = "pictureEdit4";
+            this.pictureEdit4.Properties.InitialImageOptions.Image = global::Dev8_Ribbon.Properties.Resources._2125546_200;
+            this.pictureEdit4.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
+            this.pictureEdit4.Properties.SizeMode = DevExpress.XtraEditors.Controls.PictureSizeMode.Zoom;
+            this.pictureEdit4.Size = new System.Drawing.Size(100, 96);
+            this.pictureEdit4.TabIndex = 3;
+            // 
+            // pictureEdit5
+            // 
+            this.pictureEdit5.EditValue = global::Dev8_Ribbon.Properties.Resources._2671174_200;
+            this.pictureEdit5.Location = new System.Drawing.Point(580, 20);
+            this.pictureEdit5.Margin = new System.Windows.Forms.Padding(20);
+            this.pictureEdit5.MenuManager = this.ribbonControl1;
+            this.pictureEdit5.Name = "pictureEdit5";
+            this.pictureEdit5.Properties.InitialImageOptions.Image = global::Dev8_Ribbon.Properties.Resources._2125546_200;
+            this.pictureEdit5.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
+            this.pictureEdit5.Properties.SizeMode = DevExpress.XtraEditors.Controls.PictureSizeMode.Zoom;
+            this.pictureEdit5.Size = new System.Drawing.Size(100, 96);
+            this.pictureEdit5.TabIndex = 4;
+            // 
+            // pictureEdit6
+            // 
+            this.pictureEdit6.EditValue = global::Dev8_Ribbon.Properties.Resources._2701861_200;
+            this.pictureEdit6.Location = new System.Drawing.Point(20, 156);
+            this.pictureEdit6.Margin = new System.Windows.Forms.Padding(20);
+            this.pictureEdit6.MenuManager = this.ribbonControl1;
+            this.pictureEdit6.Name = "pictureEdit6";
+            this.pictureEdit6.Properties.InitialImageOptions.Image = global::Dev8_Ribbon.Properties.Resources._2125546_200;
+            this.pictureEdit6.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
+            this.pictureEdit6.Properties.SizeMode = DevExpress.XtraEditors.Controls.PictureSizeMode.Zoom;
+            this.pictureEdit6.Size = new System.Drawing.Size(100, 96);
+            this.pictureEdit6.TabIndex = 5;
+            // 
+            // pictureEdit7
+            // 
+            this.pictureEdit7.EditValue = global::Dev8_Ribbon.Properties.Resources._2754018_200;
+            this.pictureEdit7.Location = new System.Drawing.Point(160, 156);
+            this.pictureEdit7.Margin = new System.Windows.Forms.Padding(20);
+            this.pictureEdit7.MenuManager = this.ribbonControl1;
+            this.pictureEdit7.Name = "pictureEdit7";
+            this.pictureEdit7.Properties.InitialImageOptions.Image = global::Dev8_Ribbon.Properties.Resources._2125546_200;
+            this.pictureEdit7.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
+            this.pictureEdit7.Properties.SizeMode = DevExpress.XtraEditors.Controls.PictureSizeMode.Zoom;
+            this.pictureEdit7.Size = new System.Drawing.Size(100, 96);
+            this.pictureEdit7.TabIndex = 6;
+            // 
+            // pictureEdit8
+            // 
+            this.pictureEdit8.EditValue = global::Dev8_Ribbon.Properties.Resources._2811404_200;
+            this.pictureEdit8.Location = new System.Drawing.Point(300, 156);
+            this.pictureEdit8.Margin = new System.Windows.Forms.Padding(20);
+            this.pictureEdit8.MenuManager = this.ribbonControl1;
+            this.pictureEdit8.Name = "pictureEdit8";
+            this.pictureEdit8.Properties.InitialImageOptions.Image = global::Dev8_Ribbon.Properties.Resources._2125546_200;
+            this.pictureEdit8.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
+            this.pictureEdit8.Properties.SizeMode = DevExpress.XtraEditors.Controls.PictureSizeMode.Zoom;
+            this.pictureEdit8.Size = new System.Drawing.Size(100, 96);
+            this.pictureEdit8.TabIndex = 7;
             // 
             // xtraTabControl1
             // 
@@ -278,7 +419,7 @@ namespace Dev8_Ribbon
             this.xtraTabControl1.Location = new System.Drawing.Point(0, 147);
             this.xtraTabControl1.Name = "xtraTabControl1";
             this.xtraTabControl1.SelectedTabPage = this.xtraTabPage1;
-            this.xtraTabControl1.Size = new System.Drawing.Size(658, 284);
+            this.xtraTabControl1.Size = new System.Drawing.Size(817, 420);
             this.xtraTabControl1.TabIndex = 2;
             this.xtraTabControl1.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
             this.xtraTabPage1});
@@ -288,7 +429,7 @@ namespace Dev8_Ribbon
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(658, 462);
+            this.ClientSize = new System.Drawing.Size(817, 598);
             this.Controls.Add(this.xtraTabControl1);
             this.Controls.Add(this.ribbonStatusBar1);
             this.Controls.Add(this.ribbonControl1);
@@ -299,6 +440,16 @@ namespace Dev8_Ribbon
             this.Load += new System.EventHandler(this.Form3_XtralTabControl_Load);
             ((System.ComponentModel.ISupportInitialize)(this.ribbonControl1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.applicationMenu1)).EndInit();
+            this.xtraTabPage1.ResumeLayout(false);
+            this.flowLayoutPanel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit1.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit2.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit3.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit4.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit5.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit6.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit7.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureEdit8.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.xtraTabControl1)).EndInit();
             this.xtraTabControl1.ResumeLayout(false);
             this.ResumeLayout(false);
@@ -334,5 +485,14 @@ namespace Dev8_Ribbon
         private DevExpress.XtraBars.BarButtonItem barBtnLink;
         private DevExpress.XtraBars.BarStaticItem barStaticItem2;
         private DevExpress.XtraBars.BarStaticItem barStaticItem3;
+        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
+        private DevExpress.XtraEditors.PictureEdit pictureEdit1;
+        private DevExpress.XtraEditors.PictureEdit pictureEdit2;
+        private DevExpress.XtraEditors.PictureEdit pictureEdit3;
+        private DevExpress.XtraEditors.PictureEdit pictureEdit4;
+        private DevExpress.XtraEditors.PictureEdit pictureEdit5;
+        private DevExpress.XtraEditors.PictureEdit pictureEdit6;
+        private DevExpress.XtraEditors.PictureEdit pictureEdit7;
+        private DevExpress.XtraEditors.PictureEdit pictureEdit8;
     }
 }
