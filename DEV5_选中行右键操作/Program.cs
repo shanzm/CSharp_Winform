@@ -16,7 +16,8 @@ namespace DEV5_选中行右键操作
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new Form1());
+            Application.Run(new Form2());
         }
     }
 }
