@@ -13,6 +13,7 @@ namespace DEV3_GridControl
         public string Address { get; set; }
         public string LegelPerson { get; set; }
         public bool IsChecked { get; set; }
+        public int SortNo { get; set; }
     }
 }
 

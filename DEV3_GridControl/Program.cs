@@ -23,6 +23,7 @@ namespace DEV3_GridControl
             //Application.Run(new Form8第一列展示复选框2());
 
             Application.Run(new Form9_上移和下移());
+            //Application.Run(new Form10显示搜索框());
         }
     }
 }
