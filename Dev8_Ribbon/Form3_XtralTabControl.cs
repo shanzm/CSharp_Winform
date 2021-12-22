@@ -13,6 +13,7 @@ namespace Dev8_Ribbon
 {
     //图标来源：https://thenounproject.com/
 
+    //关于ApplicationMenu可以参考：https://www.cnblogs.com/land/archive/2009/09/24/1573155.html
     public partial class Form3_XtralTabControl : DevExpress.XtraBars.Ribbon.RibbonForm
     {
         public Form3_XtralTabControl()
@@ -43,7 +44,7 @@ namespace Dev8_Ribbon
         //选中的页面切换事件
         private void ribbonControl1_SelectedPageChanged(object sender, EventArgs e)
         {
-            //MessageBox.Show("test_selectedpage");
+            MessageBox.Show("test_selectedpage");
         }
 
         //页面1-创建分组-创建按钮点击事件
@@ -70,6 +71,13 @@ namespace Dev8_Ribbon
         private void pictureEdit1_Click(object sender, EventArgs e)
         {
             TabControlHelper.AddTabPage("新建", xtraTabControl1);
+        }
+
+
+        //页面2-第一分组-中设置按钮-点击事件
+        private void barButtonItem2_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            TabControlHelper.AddTabPage("新建2", xtraTabControl1);
         }
     }
 

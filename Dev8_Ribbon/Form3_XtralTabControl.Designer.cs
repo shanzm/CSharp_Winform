@@ -37,7 +37,6 @@ namespace Dev8_Ribbon
             this.barBtnEdit = new DevExpress.XtraBars.BarButtonItem();
             this.barBtnDelete = new DevExpress.XtraBars.BarButtonItem();
             this.barBtnCopy = new DevExpress.XtraBars.BarButtonItem();
-            this.barStaticItem1 = new DevExpress.XtraBars.BarStaticItem();
             this.barButtonItem2 = new DevExpress.XtraBars.BarButtonItem();
             this.barSubItem2 = new DevExpress.XtraBars.BarSubItem();
             this.barSubItem3 = new DevExpress.XtraBars.BarSubItem();
@@ -66,6 +65,7 @@ namespace Dev8_Ribbon
             this.pictureEdit7 = new DevExpress.XtraEditors.PictureEdit();
             this.pictureEdit8 = new DevExpress.XtraEditors.PictureEdit();
             this.xtraTabControl1 = new DevExpress.XtraTab.XtraTabControl();
+            this.barStaticItem1 = new DevExpress.XtraBars.BarStaticItem();
             ((System.ComponentModel.ISupportInitialize)(this.ribbonControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.applicationMenu1)).BeginInit();
             this.xtraTabPage1.SuspendLayout();
@@ -93,7 +93,6 @@ namespace Dev8_Ribbon
             this.barBtnEdit,
             this.barBtnDelete,
             this.barBtnCopy,
-            this.barStaticItem1,
             this.barButtonItem2,
             this.barSubItem2,
             this.barSubItem3,
@@ -104,9 +103,10 @@ namespace Dev8_Ribbon
             this.barButtonItem7,
             this.barBtnLink,
             this.barStaticItem2,
-            this.barStaticItem3});
+            this.barStaticItem3,
+            this.barStaticItem1});
             this.ribbonControl1.Location = new System.Drawing.Point(0, 0);
-            this.ribbonControl1.MaxItemId = 19;
+            this.ribbonControl1.MaxItemId = 28;
             this.ribbonControl1.Name = "ribbonControl1";
             this.ribbonControl1.PageHeaderItemLinks.Add(this.barButtonItem7);
             this.ribbonControl1.PageHeaderItemLinks.Add(this.barBtnLink);
@@ -160,13 +160,6 @@ namespace Dev8_Ribbon
             this.barBtnCopy.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barBtnCopy.ImageOptions.LargeImage")));
             this.barBtnCopy.Name = "barBtnCopy";
             // 
-            // barStaticItem1
-            // 
-            this.barStaticItem1.Alignment = DevExpress.XtraBars.BarItemLinkAlignment.Right;
-            this.barStaticItem1.Caption = "barStaticItem1";
-            this.barStaticItem1.Id = 8;
-            this.barStaticItem1.Name = "barStaticItem1";
-            // 
             // barButtonItem2
             // 
             this.barButtonItem2.Caption = "设置";
@@ -174,6 +167,7 @@ namespace Dev8_Ribbon
             this.barButtonItem2.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("barButtonItem2.ImageOptions.Image")));
             this.barButtonItem2.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem2.ImageOptions.LargeImage")));
             this.barButtonItem2.Name = "barButtonItem2";
+            this.barButtonItem2.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem2_ItemClick);
             // 
             // barSubItem2
             // 
@@ -425,6 +419,13 @@ namespace Dev8_Ribbon
             this.xtraTabPage1});
             this.xtraTabControl1.CloseButtonClick += new System.EventHandler(this.xtraTabControl1_CloseButtonClick);
             // 
+            // barStaticItem1
+            // 
+            this.barStaticItem1.Alignment = DevExpress.XtraBars.BarItemLinkAlignment.Right;
+            this.barStaticItem1.Caption = "barStaticItem1";
+            this.barStaticItem1.Id = 27;
+            this.barStaticItem1.Name = "barStaticItem1";
+            // 
             // Form3_XtralTabControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
@@ -468,7 +469,6 @@ namespace Dev8_Ribbon
         private DevExpress.XtraBars.BarButtonItem barBtnDelete;
         private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup2;
         private DevExpress.XtraBars.BarButtonItem barBtnCopy;
-        private DevExpress.XtraBars.BarStaticItem barStaticItem1;
         private DevExpress.XtraTab.XtraTabPage xtraTabPage1;
         private DevExpress.XtraTab.XtraTabControl xtraTabControl1;
         private DevExpress.XtraBars.BarButtonItem barButtonItem2;
@@ -494,5 +494,6 @@ namespace Dev8_Ribbon
         private DevExpress.XtraEditors.PictureEdit pictureEdit6;
         private DevExpress.XtraEditors.PictureEdit pictureEdit7;
         private DevExpress.XtraEditors.PictureEdit pictureEdit8;
+        private DevExpress.XtraBars.BarStaticItem barStaticItem1;
     }
 }
