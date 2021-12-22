@@ -23,6 +23,9 @@ namespace Dev8_Ribbon
         private void Form3_XtralTabControl_Load(object sender, EventArgs e)
         {
             InitDate();
+
+            this.ribbonControl1.Pages["测试"].Visible = false;//隐藏一个名为“测试”的页面
+
         }
 
 
