@@ -184,5 +184,53 @@
   <ItemGroup>
     <None Include="Icon\4378812-200.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f9-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f15.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

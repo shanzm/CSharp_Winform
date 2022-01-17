@@ -14,6 +14,12 @@ namespace Dev8_Ribbon
     //图标来源：https://thenounproject.com/
 
     //关于ApplicationMenu可以参考：https://www.cnblogs.com/land/archive/2009/09/24/1573155.html
+
+    //图片是放在：FlowLayoutPanel控件中，实现流布局
+    //通过设置指定的图片的SetFlowBreak可以截断，实现换行
+
+    //每个图片的pictureEdit的背景色blackColor：Transparent 
+
     public partial class Form3_XtralTabControl : DevExpress.XtraBars.Ribbon.RibbonForm
     {
         public Form3_XtralTabControl()
@@ -23,9 +29,6 @@ namespace Dev8_Ribbon
         private void Form3_XtralTabControl_Load(object sender, EventArgs e)
         {
             InitDate();
-
-            this.ribbonControl1.Pages["测试"].Visible = false;//隐藏一个名为“测试”的页面
-
         }
 
 
@@ -39,7 +42,13 @@ namespace Dev8_Ribbon
             //this.ribbonControl1.SelectedPage = ribbonPage2;
 
             //默认折叠ribbon
-            //this.ribbonControl1.Minimized = true;
+            this.ribbonControl1.Minimized = true;
+
+            //隐藏一个名为“测试”的页面
+            this.ribbonControl1.Pages["测试"].Visible = false;
+
+            //打开默认全屏
+            this.WindowState = FormWindowState.Maximized;
         }
 
         #endregion
@@ -47,7 +56,7 @@ namespace Dev8_Ribbon
         //选中的页面切换事件
         private void ribbonControl1_SelectedPageChanged(object sender, EventArgs e)
         {
-            MessageBox.Show("test_selectedpage");
+            //MessageBox.Show("test_selectedpage");
         }
 
         //页面1-创建分组-创建按钮点击事件
@@ -68,7 +77,6 @@ namespace Dev8_Ribbon
         {
             System.Diagnostics.Process.Start("https://www.baidu.com");
         }
-
 
 
         private void pictureEdit1_Click(object sender, EventArgs e)
