@@ -15,6 +15,7 @@ namespace Dev8_Ribbon
         public Form2_Demo()
         {
             InitializeComponent();
+            this.ribbonControl1.ShowApplicationButton = DevExpress.Utils.DefaultBoolean.False;//不要显示Ribbon左上角的按钮
         }
 
         private void barButtonItem3_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
