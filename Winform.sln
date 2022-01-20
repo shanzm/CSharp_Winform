@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform18-TrackBar", "Winfo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform19-TreeView", "Winform19-TreeView\Winform19-TreeView.csproj", "{6A3C06CC-0123-43EA-8B31-AA292F4D275D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform-登陆窗口逻辑", "Winform-登陆窗口逻辑\Winform-登陆窗口逻辑.csproj", "{D1B4C890-7456-4BFD-8032-11D5FC84E3D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -361,6 +363,14 @@ Global
 		{6A3C06CC-0123-43EA-8B31-AA292F4D275D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6A3C06CC-0123-43EA-8B31-AA292F4D275D}.Release|x86.ActiveCfg = Release|Any CPU
 		{6A3C06CC-0123-43EA-8B31-AA292F4D275D}.Release|x86.Build.0 = Release|Any CPU
+		{D1B4C890-7456-4BFD-8032-11D5FC84E3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B4C890-7456-4BFD-8032-11D5FC84E3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B4C890-7456-4BFD-8032-11D5FC84E3D4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D1B4C890-7456-4BFD-8032-11D5FC84E3D4}.Debug|x86.Build.0 = Debug|Any CPU
+		{D1B4C890-7456-4BFD-8032-11D5FC84E3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B4C890-7456-4BFD-8032-11D5FC84E3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B4C890-7456-4BFD-8032-11D5FC84E3D4}.Release|x86.ActiveCfg = Release|Any CPU
+		{D1B4C890-7456-4BFD-8032-11D5FC84E3D4}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
