@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DEV3_GridControl
+namespace Winform_登陆窗口样式美化
 {
     static class Program
     {
@@ -17,13 +17,6 @@ namespace DEV3_GridControl
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Form1());
-            //Application.Run(new Form4_event());//Form4_datasoucre
-            //Application.Run(new Form5_根据行中某列数据设置样式());
-            //Application.Run(new Form7第一列展示复选框());
-            Application.Run(new Form8第一列展示复选框2());
-
-            //Application.Run(new Form9_上移和下移());
-            //Application.Run(new Form10显示搜索框());
         }
     }
 }

@@ -42,7 +42,7 @@ namespace DEV3_GridControl
             dataTable.Columns.Add("Address", Type.GetType("System.String"));
             dataTable.Columns.Add("LegelPerson", Type.GetType("System.String"));
             dataTable.Columns.Add("IsChecked", Type.GetType("System.Boolean"));//------------------------这里添加一个bool类型的列
-            dataTable.Rows.Add(new object[] { "1", "A公司", "贝克街221号", "歇洛克.福尔摩斯" });
+            dataTable.Rows.Add(new object[] { "1", "A公司", "贝克街221号", "歇洛克.福尔摩斯",true });
             dataTable.Rows.Add(new object[] { "2", "B公司", "贝克街2212号", "华生" });
             dataTable.Rows.Add(new object[] { "3", "C公司", "贝克街2213号", "歇洛克.福尔摩斯" });
             dataTable.Rows.Add(new object[] { "4", "D公司", "贝克街2214号", "华生" });
