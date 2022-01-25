@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform-全局捕获异常"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform-登陆窗口样式美化", "Winform-登陆窗口样式美化\Winform-登陆窗口样式美化.csproj", "{0A1AF12A-062C-4A3C-8D93-DCECE22CE0CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev16_等待窗口", "Dev6_等待窗口\Dev16_等待窗口.csproj", "{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -421,6 +423,14 @@ Global
 		{0A1AF12A-062C-4A3C-8D93-DCECE22CE0CF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0A1AF12A-062C-4A3C-8D93-DCECE22CE0CF}.Release|x86.ActiveCfg = Release|Any CPU
 		{0A1AF12A-062C-4A3C-8D93-DCECE22CE0CF}.Release|x86.Build.0 = Release|Any CPU
+		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}.Debug|x86.Build.0 = Debug|Any CPU
+		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}.Release|x86.ActiveCfg = Release|Any CPU
+		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -444,6 +454,7 @@ Global
 		{F8373DA0-08DB-474F-B6FD-1CB9D9EC7CCE} = {AFA5B06A-A25F-4F40-BBF7-37673ACCC54B}
 		{76905912-8994-4D6F-9F80-838B224E9D8A} = {AFA5B06A-A25F-4F40-BBF7-37673ACCC54B}
 		{B109552D-E727-4410-A145-BB935A51DFC1} = {AFA5B06A-A25F-4F40-BBF7-37673ACCC54B}
+		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC} = {AFA5B06A-A25F-4F40-BBF7-37673ACCC54B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E0ED5A58-CA70-4735-AF02-5956893DF1C6}

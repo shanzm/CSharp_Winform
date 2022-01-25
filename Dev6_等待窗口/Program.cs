@@ -1,11 +1,10 @@
-﻿using ET.ManagerApp;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DEV9_BarManger
+namespace Dev6_等待窗口
 {
     static class Program
     {
@@ -17,7 +16,7 @@ namespace DEV9_BarManger
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ShowDialogForm());
+            Application.Run(new MainForm());
         }
     }
 }
