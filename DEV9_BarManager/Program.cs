@@ -1,5 +1,4 @@
-﻿using ET.ManagerApp;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -17,7 +16,7 @@ namespace DEV9_BarManger
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ShowDialogForm());
+            Application.Run(new Form1());
         }
     }
 }

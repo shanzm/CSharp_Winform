@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("Winform-登陆窗口样式美化")]
+[assembly: AssemblyTitle("Winform20-控件二开")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Winform-登陆窗口样式美化")]
+[assembly: AssemblyProduct("Winform20-控件二开")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("0a1af12a-062c-4a3c-8d93-dcece22ce0cf")]
+[assembly: Guid("ccc25887-55f4-4db2-a644-a51cd94bc804")]
 
 // 程序集的版本信息由下列四个值组成: 
 //

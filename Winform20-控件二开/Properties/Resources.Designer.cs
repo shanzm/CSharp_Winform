@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace Winform_登陆窗口样式美化.Properties
+namespace Winform20_控件二开.Properties
 {
     /// <summary>
     ///   强类型资源类，用于查找本地化字符串等。
@@ -43,7 +43,7 @@ namespace Winform_登陆窗口样式美化.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Winform_登陆窗口样式美化.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Winform20_控件二开.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

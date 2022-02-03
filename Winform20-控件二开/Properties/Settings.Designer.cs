@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace Winform_登陆窗口样式美化.Properties
+namespace Winform20_控件二开.Properties
 {
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "11.0.0.0")]

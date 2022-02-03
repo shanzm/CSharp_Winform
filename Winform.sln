@@ -95,9 +95,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform-登陆窗口逻辑"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform-全局捕获异常", "Winform-全局捕获异常\Winform-全局捕获异常.csproj", "{E914F335-C208-4B00-AEC7-75E5BD587239}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform-登陆窗口样式美化", "Winform-登陆窗口样式美化\Winform-登陆窗口样式美化.csproj", "{0A1AF12A-062C-4A3C-8D93-DCECE22CE0CF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev16_等待窗口", "Dev6_等待窗口\Dev16_等待窗口.csproj", "{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform20-控件二开", "Winform20-控件二开\Winform20-控件二开.csproj", "{CCC25887-55F4-4DB2-A644-A51CD94BC804}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -415,14 +415,6 @@ Global
 		{E914F335-C208-4B00-AEC7-75E5BD587239}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E914F335-C208-4B00-AEC7-75E5BD587239}.Release|x86.ActiveCfg = Release|Any CPU
 		{E914F335-C208-4B00-AEC7-75E5BD587239}.Release|x86.Build.0 = Release|Any CPU
-		{0A1AF12A-062C-4A3C-8D93-DCECE22CE0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0A1AF12A-062C-4A3C-8D93-DCECE22CE0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0A1AF12A-062C-4A3C-8D93-DCECE22CE0CF}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{0A1AF12A-062C-4A3C-8D93-DCECE22CE0CF}.Debug|x86.Build.0 = Debug|Any CPU
-		{0A1AF12A-062C-4A3C-8D93-DCECE22CE0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0A1AF12A-062C-4A3C-8D93-DCECE22CE0CF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0A1AF12A-062C-4A3C-8D93-DCECE22CE0CF}.Release|x86.ActiveCfg = Release|Any CPU
-		{0A1AF12A-062C-4A3C-8D93-DCECE22CE0CF}.Release|x86.Build.0 = Release|Any CPU
 		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}.Debug|x86.ActiveCfg = Debug|Any CPU
@@ -431,6 +423,14 @@ Global
 		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}.Release|x86.ActiveCfg = Release|Any CPU
 		{A6BDA376-AC59-49D0-96CF-F0B7ACAFFADC}.Release|x86.Build.0 = Release|Any CPU
+		{CCC25887-55F4-4DB2-A644-A51CD94BC804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC25887-55F4-4DB2-A644-A51CD94BC804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC25887-55F4-4DB2-A644-A51CD94BC804}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CCC25887-55F4-4DB2-A644-A51CD94BC804}.Debug|x86.Build.0 = Debug|Any CPU
+		{CCC25887-55F4-4DB2-A644-A51CD94BC804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC25887-55F4-4DB2-A644-A51CD94BC804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC25887-55F4-4DB2-A644-A51CD94BC804}.Release|x86.ActiveCfg = Release|Any CPU
+		{CCC25887-55F4-4DB2-A644-A51CD94BC804}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

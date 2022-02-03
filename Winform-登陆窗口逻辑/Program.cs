@@ -17,6 +17,6 @@ namespace Winform_登陆窗口逻辑
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new MainForm());//这里启动主窗体，而不是登陆窗口\
-            Application.Run(new MyLoginForm());        }
+            Application.Run(new MyLoginForm2());        }
     }
 }

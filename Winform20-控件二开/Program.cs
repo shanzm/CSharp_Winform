@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Winform_登陆窗口样式美化
+namespace Winform20_控件二开
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Winform_登陆窗口样式美化
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new Form1());
+            Application.Run(new 水印TextBox());
         }
     }
 }
