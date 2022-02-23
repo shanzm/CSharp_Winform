@@ -117,56 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="power_green" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\power_green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="lightYellow2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\lightYellow2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="power_blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\power_blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="power_black" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\power_black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="lightYellow1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\lightYellow1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="lightRedRed1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\lightRedRed1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="lightRedRed2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\lightRedRed2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Light" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\light.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="lightBlack" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\lightblack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LightOff" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\lightoff.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LightOn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\lighton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="errorRed" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\errorred.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="errorYellow" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\erroryellow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="lightGreen1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\lightgreen1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="lightGreen2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\lightgreen2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="WifiOff" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\wifioff.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="WifiOn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\images\wifion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
+  <metadata name="timerForFlicker.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
 </root>

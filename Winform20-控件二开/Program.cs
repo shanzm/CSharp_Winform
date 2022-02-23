@@ -16,7 +16,7 @@ namespace Winform20_控件二开
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new 水印TextBox());
+            Application.Run(new Button());
         }
     }
 }
