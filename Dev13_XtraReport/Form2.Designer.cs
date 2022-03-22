@@ -30,22 +30,33 @@ namespace Dev13_XtraReport
         private void InitializeComponent()
         {
             this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
+            this.btnForChiChu = new DevExpress.XtraEditors.SimpleButton();
             this.SuspendLayout();
             // 
             // simpleButton1
             // 
             this.simpleButton1.Location = new System.Drawing.Point(53, 51);
             this.simpleButton1.Name = "simpleButton1";
-            this.simpleButton1.Size = new System.Drawing.Size(119, 34);
+            this.simpleButton1.Size = new System.Drawing.Size(146, 34);
             this.simpleButton1.TabIndex = 0;
             this.simpleButton1.Text = "预览报表";
             this.simpleButton1.Click += new System.EventHandler(this.simpleButton1_Click);
+            // 
+            // btnForChiChu
+            // 
+            this.btnForChiChu.Location = new System.Drawing.Point(53, 138);
+            this.btnForChiChu.Name = "btnForChiChu";
+            this.btnForChiChu.Size = new System.Drawing.Size(146, 34);
+            this.btnForChiChu.TabIndex = 0;
+            this.btnForChiChu.Text = "预览报表2ForChiChu";
+            this.btnForChiChu.Click += new System.EventHandler(this.btnForChiChu_Click);
             // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(239, 406);
+            this.Controls.Add(this.btnForChiChu);
             this.Controls.Add(this.simpleButton1);
             this.Name = "Form2";
             this.Text = "Form2";
@@ -56,5 +67,6 @@ namespace Dev13_XtraReport
         #endregion
 
         private DevExpress.XtraEditors.SimpleButton simpleButton1;
+        private DevExpress.XtraEditors.SimpleButton btnForChiChu;
     }
 }

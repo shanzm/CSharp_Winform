@@ -10,16 +10,21 @@ using System.Windows.Forms;
 
 namespace DEV4_LayoutControl布局
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
 
-        private void simpleButton4_Click(object sender, EventArgs e)
+        private void simpleButton1_Click(object sender, EventArgs e)
         {
             this.layoutControl1.Visible = false;
+        }
+
+        private void simpleButton2_Click(object sender, EventArgs e)
+        {
+            this.layoutControl1.Visible = true;
         }
     }
 }
