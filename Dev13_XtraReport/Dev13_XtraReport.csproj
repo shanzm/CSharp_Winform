@@ -47,6 +47,7 @@
     <Reference Include="DevExpress.Utils.v19.1, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Utils.v19.1.UI, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Xpo.v19.1, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v19.1, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraCharts.v19.1, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraEditors.v19.1, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraGauges.v19.1.Core, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
@@ -100,6 +101,12 @@
     <Compile Include="XtraReport3ForChichu.Designer.cs">
       <DependentUpon>XtraReport3ForChichu.cs</DependentUpon>
     </Compile>
+    <Compile Include="XtraReport4ForBeijing.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XtraReport4ForBeijing.Designer.cs">
+      <DependentUpon>XtraReport4ForBeijing.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -125,6 +132,9 @@
     </Compile>
     <EmbeddedResource Include="XtraReport3ForChichu.resx">
       <DependentUpon>XtraReport3ForChichu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraReport4ForBeijing.resx">
+      <DependentUpon>XtraReport4ForBeijing.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

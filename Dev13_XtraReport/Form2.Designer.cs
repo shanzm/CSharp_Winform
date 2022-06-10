@@ -31,6 +31,7 @@ namespace Dev13_XtraReport
         {
             this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
             this.btnForChiChu = new DevExpress.XtraEditors.SimpleButton();
+            this.simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
             this.SuspendLayout();
             // 
             // simpleButton1
@@ -51,11 +52,21 @@ namespace Dev13_XtraReport
             this.btnForChiChu.Text = "预览报表2ForChiChu";
             this.btnForChiChu.Click += new System.EventHandler(this.btnForChiChu_Click);
             // 
+            // simpleButton2
+            // 
+            this.simpleButton2.Location = new System.Drawing.Point(53, 233);
+            this.simpleButton2.Name = "simpleButton2";
+            this.simpleButton2.Size = new System.Drawing.Size(146, 34);
+            this.simpleButton2.TabIndex = 0;
+            this.simpleButton2.Text = "预览报表3ForBeiJing";
+            this.simpleButton2.Click += new System.EventHandler(this.simpleButton2_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(239, 406);
+            this.Controls.Add(this.simpleButton2);
             this.Controls.Add(this.btnForChiChu);
             this.Controls.Add(this.simpleButton1);
             this.Name = "Form2";
@@ -68,5 +79,6 @@ namespace Dev13_XtraReport
 
         private DevExpress.XtraEditors.SimpleButton simpleButton1;
         private DevExpress.XtraEditors.SimpleButton btnForChiChu;
+        private DevExpress.XtraEditors.SimpleButton simpleButton2;
     }
 }

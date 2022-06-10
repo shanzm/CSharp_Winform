@@ -58,5 +58,34 @@ namespace Dev13_XtraReport
                                                          }, CommandVisibility.None);
             tool.ShowPreview();
         }
+
+        private void simpleButton2_Click(object sender, EventArgs e)
+        {
+            XtraReport4ForBeijing chichu = new XtraReport4ForBeijing();
+
+            //var mlc = sp.tiaoma.ToList();
+            //chichu.DataSource = mlc;
+
+            ReportPrintTool tool = new ReportPrintTool(chichu);
+
+
+
+            //操作要显示什么按钮
+            tool.PrintingSystem.SetCommandVisibility(new PrintingSystemCommand[]{
+                                                         PrintingSystemCommand.Open,
+                                                         PrintingSystemCommand.Save,
+                                                         PrintingSystemCommand.ClosePreview,
+                                                         PrintingSystemCommand.Customize,
+                                                         PrintingSystemCommand.SendCsv,
+                                                         PrintingSystemCommand.SendFile,
+                                                         PrintingSystemCommand.SendGraphic,
+                                                         PrintingSystemCommand.SendMht,
+                                                         PrintingSystemCommand.SendPdf,
+                                                         PrintingSystemCommand.SendRtf,
+                                                         PrintingSystemCommand.SendTxt,
+                                                         PrintingSystemCommand.SendXls
+                                                         }, CommandVisibility.None);
+            tool.ShowPreview();
+        }
     }
 }
